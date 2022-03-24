@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-23T21:11:27 ART" name="Default suite" finished-at="2022-03-23T21:11:35 ART" duration-ms="7691">
+    <groups>
+    </groups>
+    <test started-at="2022-03-23T21:11:27 ART" name="Default test" finished-at="2022-03-23T21:11:35 ART" duration-ms="7691">
+      <class name="pruebas.WebDriverManagerTest">
+        <test-method signature="WebDriverTest()[pri:0, instance:pruebas.WebDriverManagerTest@4f6ee6e4]" started-at="2022-03-23T21:11:27 ART" name="WebDriverTest" finished-at="2022-03-23T21:11:35 ART" duration-ms="7602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDriverTest -->
+      </class> <!-- pruebas.WebDriverManagerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
